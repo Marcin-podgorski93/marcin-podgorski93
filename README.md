@@ -24,6 +24,5 @@
     :mailbox: Reach me out! 
     <a href="mailto:podgorski.marcin93@gmail.com">
         <img src="https://img.shields.io/badge/-podgorskimarcin93-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" alt="Mail Badge">
-        https://www.codewars.com/users/Marcin-podgorski93/badges/large
     </a>
 </p>
